@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\bin\Debug\DevTeamsProject_Console.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\bin\Debug\DevTeamsProject_Console.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\bin\Debug\DevTeamsProject_Console.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\bin\Debug\DevTeamsProject.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\bin\Debug\DevTeamsProject.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\obj\Debug\DevTeamsProject_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\obj\Debug\DevTeamsProject_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\obj\Debug\DevTeamsProject_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\obj\Debug\DevTeamsProject_Console.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamsProject-master (3)\DevTeamsProject-master\DevTeamsProject_Console\obj\Debug\DevTeamsProject_Console.pdb
